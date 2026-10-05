@@ -130,9 +130,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devisri-2409&layout=compact&hide_border=true&title_color=0891B2&text_color=334155&bg_color=ffffff" height="165" alt="Most used languages"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Devisri-2409&theme=default&hide_border=true&ring=0891B2&fire=06b6d4&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748b" alt="GitHub streak"/>
 
 </div>
 
