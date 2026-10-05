@@ -1,47 +1,24 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                 DEVI SRI • PROFILE                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Devisri-2409/Devisri-2409/main/assets/profile-banner.svg" alt="Devi Sri animated profile banner" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Data+Explorer+%7C+Software+Developer;Building+%E2%80%A2+Learning+%E2%80%A2+Exploring+%E2%80%A2+Improving+%F0%9F%9A%80" alt="Animated professional headline"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Devisri-2409&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Devisri-2409?label=FOLLOWERS&style=for-the-badge&color=22D3EE" alt="Followers"/>
-
-</div>
-
----
-
-## 👋 About Me
-
-<div align="center">
-
-<table>
+<table width="100%" bgcolor="#020617">
 <tr>
-<td width="62%">
+<td align="center">
 
-I'm a Computer Science & Business Systems student passionate about building practical software and exploring emerging technologies. I enjoy developing full-stack applications, experimenting with AI/ML, working with data, and continuously improving my problem-solving skills through DSA.
+<br>
 
-**What I enjoy building**
+# <font color="#FFFFFF">DEVI SRI</font>
 
-💻 Full-Stack Applications  
-🤖 AI/ML-Powered Solutions  
-📊 Data & Business Intelligence  
-🧩 Python & DSA Practice  
-🚀 Practical Project-Based Learning
+### <font color="#22D3EE">Full-Stack Developer • AI/ML Enthusiast • Data Explorer • Software Developer</font>
 
-</td>
-<td width="38%" align="center">
+<font color="#94A3B8">Building practical software • Exploring AI & Data • Learning continuously</font>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=800&color=22D3EE&center=true&vCenter=true&width=330&height=130&lines=Build+%E2%86%92+Test;Test+%E2%86%92+Improve;Improve+%E2%86%92+Build+Again+%F0%9F%9A%80" alt="Build test improve animation"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Devisri-2409&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Devisri-2409?label=FOLLOWERS&style=for-the-badge&color=0891B2" alt="Followers"/>
+
+<br><br>
 
 </td>
 </tr>
@@ -49,86 +26,106 @@ I'm a Computer Science & Business Systems student passionate about building prac
 
 </div>
 
+<table width="100%" bgcolor="#020617">
+<tr>
+<td>
+
+## <font color="#22D3EE">👋 About Me</font>
+
+<font color="#CBD5E1">I'm a Computer Science & Business Systems student passionate about building practical software and exploring emerging technologies. I enjoy developing full-stack applications, experimenting with AI/ML, working with data, and continuously improving my problem-solving skills through DSA.</font>
+
+<br>
+
+<font color="#FFFFFF">💻 Full-Stack Development</font>  
+<font color="#FFFFFF">🤖 AI/ML Exploration</font>  
+<font color="#FFFFFF">📊 Data & Business Intelligence</font>  
+<font color="#FFFFFF">🧩 Python & DSA</font>  
+<font color="#FFFFFF">🚀 Project-Based Learning</font>
+
 ---
 
-## 🛠️ Technical Skills
+## <font color="#22D3EE">🛠️ Technical Skills</font>
 
-<div align="center">
+### <font color="#67E8F9">Languages</font>
 
-### Languages
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Python Java C JavaScript"/>
 
-### Frontend
+### <font color="#67E8F9">Frontend</font>
+
 <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML CSS React"/>
 
-### Backend
+### <font color="#67E8F9">Backend</font>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" alt="Node.js Express Flask FastAPI"/>
 
-### Data & AI
+### <font color="#67E8F9">Data & AI</font>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 
-### Databases
+### <font color="#67E8F9">Databases</font>
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL PostgreSQL"/>
 
-### Tools
+### <font color="#67E8F9">Tools</font>
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" alt="Git GitHub Docker Postman VS Code Vercel"/>
 
-</div>
+---
+
+## <font color="#22D3EE">⚡ Currently Exploring</font>
+
+<font color="#CBD5E1">
+
+⚛️ Building full-stack applications  
+🤖 Exploring AI/ML & AI-powered applications  
+📊 Improving Data Analytics & BI skills  
+🐍 Practising DSA with Python  
+☁️ Exploring cloud & deployment
+
+</font>
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARNING-22D3EE?style=for-the-badge&labelColor=020617" alt="Learning"/>
+<img src="https://img.shields.io/badge/BUILDING-0EA5E9?style=for-the-badge&labelColor=020617" alt="Building"/>
+<img src="https://img.shields.io/badge/TESTING-0284C7?style=for-the-badge&labelColor=020617" alt="Testing"/>
+<img src="https://img.shields.io/badge/IMPROVING-0369A1?style=for-the-badge&labelColor=020617" alt="Improving"/>
 
 ---
 
-## ⚡ Currently Exploring
+## <font color="#22D3EE">📊 GitHub Snapshot</font>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+full-stack+applications;Exploring+AI%2FML+%26+AI-powered+applications;Improving+Data+Analytics+%26+BI+skills;Practising+DSA+with+Python;Exploring+cloud+%26+deployment" alt="Currently exploring animation"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Devisri-2409&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devisri-2409&layout=compact&hide_border=true&theme=tokyonight&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" height="170" alt="Most used languages"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LEARNING-22D3EE?style=for-the-badge&labelColor=0B1120" alt="Learning"/>
-<img src="https://img.shields.io/badge/BUILDING-0EA5E9?style=for-the-badge&labelColor=0B1120" alt="Building"/>
-<img src="https://img.shields.io/badge/TESTING-0284C7?style=for-the-badge&labelColor=0B1120" alt="Testing"/>
-<img src="https://img.shields.io/badge/IMPROVING-0369A1?style=for-the-badge&labelColor=0B1120" alt="Improving"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisri-2409&bg_color=020617&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Snapshot
+## <font color="#22D3EE">🎯 What I'm Looking For</font>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devisri-2409&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" height="170" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devisri-2409&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1" height="170" alt="Most used languages"/>
+<font color="#CBD5E1">Open to opportunities where I can contribute to real-world software projects, strengthen my development skills, and continue exploring AI/ML and data-driven solutions.</font>
 
 <br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisri-2409&bg_color=0B1120&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🎯 What I'm Looking For
-
-Open to opportunities where I can contribute to real-world software projects, strengthen my development skills, and continue exploring AI/ML and data-driven solutions.
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/💼-Internships-0E7490?style=for-the-badge" alt="Internships"/>
 <img src="https://img.shields.io/badge/💻-Software%20Development-164E63?style=for-the-badge" alt="Software Development"/>
 <img src="https://img.shields.io/badge/🤖-AI%2FML-0E7490?style=for-the-badge" alt="AI ML"/>
 <img src="https://img.shields.io/badge/📊-Data%20Analytics-164E63?style=for-the-badge" alt="Data Analytics"/>
 
-</div>
-
 ---
 
-## 🌐 Let's Connect
+## <font color="#22D3EE">🌐 Let's Connect</font>
 
 <div align="center">
 
@@ -150,6 +147,10 @@ Open to opportunities where I can contribute to real-world software projects, st
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Always+learning.+Always+building.+%F0%9F%9A%80" alt="Closing animation"/>
+<font color="#22D3EE">Always learning. Always building. 🚀</font>
 
 </div>
+
+</td>
+</tr>
+</table>
