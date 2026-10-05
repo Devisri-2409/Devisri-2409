@@ -83,7 +83,7 @@ I'm a **Computer Science & Business Systems student** who enjoys turning ideas i
 <br><br>
 
 <a href="https://github.com/Devisri-2409">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devisri-2409&theme=default&hide_border=true&ring=0891B2&fire=06b6d4&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748b" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=Devisri-2409&theme=default&hide_border=true&ring=0891B2&fire=06b6d4&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748b" alt="GitHub streak">
 </a>
 
 </div>
