@@ -16,8 +16,8 @@
   <path d="M0 215 C220 165 350 245 560 195 S900 125 1200 190" fill="none" stroke="url(#line)" stroke-width="3" opacity=".55"/>
   <path d="M0 230 C220 180 350 260 560 210 S900 140 1200 205" fill="none" stroke="#67e8f9" stroke-width="2" opacity=".5"/>
   <text x="70" y="105" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#0f172a">KAGGA DEVI SRI</text>
-  <text x="73" y="145" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0e7490">Computer Science &amp; Business Systems • Software Developer</text>
-  <text x="73" y="183" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#475569">Building practical applications • Exploring AI &amp; Data • Learning continuously</text>
+  <text x="73" y="145" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0e7490">Computer Science &amp; Business Systems Student</text>
+  <text x="73" y="183" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#475569">Learning • Building projects • Exploring AI &amp; Data</text>
   <circle cx="1060" cy="108" r="42" fill="#0891b2" opacity=".12"/>
   <circle cx="1060" cy="108" r="27" fill="none" stroke="#0891b2" stroke-width="3"/>
   <path d="M1048 108h24M1060 96v24" stroke="#0891b2" stroke-width="3" stroke-linecap="round"/>
