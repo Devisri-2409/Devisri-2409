@@ -1,14 +1,14 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  DEVI SRI • PROFILE                       ║ -->
+<!-- ║                 DEVI SRI • PROFILE                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Devisri-2409/Devisri-2409/main/assets/profile-banner.svg" alt="Devi Sri profile banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Devisri-2409/Devisri-2409/main/assets/profile-banner.svg" alt="Devi Sri animated profile banner" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Data+Explorer+%7C+Software+Developer;Building+%E2%80%A2+Learning+%E2%80%A2+Exploring+%E2%80%A2+Improving+%F0%9F%9A%80" alt="Animated professional headline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Data+Explorer+%7C+Software+Developer;Building+%E2%80%A2+Learning+%E2%80%A2+Exploring+%E2%80%A2+Improving+%F0%9F%9A%80" alt="Animated professional headline"/>
 
 <br>
 
@@ -22,13 +22,32 @@
 
 ## 👋 About Me
 
+<div align="center">
+
+<table>
+<tr>
+<td width="62%">
+
 I'm a Computer Science & Business Systems student passionate about building practical software and exploring emerging technologies. I enjoy developing full-stack applications, experimenting with AI/ML, working with data, and continuously improving my problem-solving skills through DSA.
 
-- 💻 **Full-Stack Development**
-- 🤖 **AI/ML Exploration**
-- 📊 **Data & Business Intelligence**
-- 🧩 **Python & DSA**
-- 🚀 **Project-Based Learning**
+**What I enjoy building**
+
+💻 Full-Stack Applications  
+🤖 AI/ML-Powered Solutions  
+📊 Data & Business Intelligence  
+🧩 Python & DSA Practice  
+🚀 Practical Project-Based Learning
+
+</td>
+<td width="38%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=800&color=22D3EE&center=true&vCenter=true&width=330&height=130&lines=Build+%E2%86%92+Test;Test+%E2%86%92+Improve;Improve+%E2%86%92+Build+Again+%F0%9F%9A%80" alt="Build test improve animation"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -63,15 +82,16 @@ I'm a Computer Science & Business Systems student passionate about building prac
 
 ## ⚡ Currently Exploring
 
-- ⚛️ Building full-stack applications
-- 🤖 Exploring AI/ML & AI-powered applications
-- 📊 Improving Data Analytics & BI skills
-- 🐍 Practising DSA with Python
-- ☁️ Exploring cloud & deployment
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Learning+%E2%86%92+Building+%E2%86%92+Testing+%E2%86%92+Improving" alt="Learning progression"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+full-stack+applications;Exploring+AI%2FML+%26+AI-powered+applications;Improving+Data+Analytics+%26+BI+skills;Practising+DSA+with+Python;Exploring+cloud+%26+deployment" alt="Currently exploring animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LEARNING-22D3EE?style=for-the-badge&labelColor=0B1120" alt="Learning"/>
+<img src="https://img.shields.io/badge/BUILDING-0EA5E9?style=for-the-badge&labelColor=0B1120" alt="Building"/>
+<img src="https://img.shields.io/badge/TESTING-0284C7?style=for-the-badge&labelColor=0B1120" alt="Testing"/>
+<img src="https://img.shields.io/badge/IMPROVING-0369A1?style=for-the-badge&labelColor=0B1120" alt="Improving"/>
 
 </div>
 
