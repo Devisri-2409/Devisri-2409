@@ -1,38 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="55%" stop-color="#0B1120"/>
-      <stop offset="100%" stop-color="#082F49"/>
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="55%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#03111F"/>
     </linearGradient>
-    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#06B6D4"/>
-      <stop offset="45%" stop-color="#22D3EE"/>
-      <stop offset="100%" stop-color="#3B82F6"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E7490"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#155E75"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity=".38"/>
-      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
     </radialGradient>
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="5"/>
-    </filter>
   </defs>
 
   <rect width="1200" height="320" rx="30" fill="url(#bg)"/>
 
-  <circle cx="1020" cy="75" r="170" fill="url(#glow)"/>
+  <circle cx="1030" cy="78" r="175" fill="url(#glow)"/>
 
-  <path d="M-40 255 C170 175 335 305 540 220 S900 130 1240 215"
-        fill="none" stroke="#22D3EE" stroke-width="12" opacity=".12" filter="url(#softGlow)"/>
+  <path d="M-40 255 C170 175 335 295 540 215 S900 135 1240 210"
+        fill="none" stroke="#0E7490" stroke-width="14" opacity=".16"/>
 
   <path d="M-40 250 C170 175 335 295 540 215 S900 135 1240 210"
-        fill="none" stroke="url(#wave)" stroke-width="5" opacity=".9"/>
+        fill="none" stroke="url(#accent)" stroke-width="5" opacity=".75"/>
 
   <path d="M-40 275 C180 205 340 315 550 240 S910 165 1240 235"
-        fill="none" stroke="#38BDF8" stroke-width="2" opacity=".55"/>
+        fill="none" stroke="#155E75" stroke-width="2" opacity=".6"/>
 
-  <g fill="#67E8F9">
+  <g fill="#22D3EE" opacity=".7">
     <circle cx="900" cy="70" r="3"/>
     <circle cx="955" cy="128" r="2"/>
     <circle cx="1090" cy="92" r="3"/>
@@ -43,7 +40,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="46"
         font-weight="700"
-        fill="#F8FAFC">DEVI SRI</text>
+        fill="#FFFFFF">DEVI SRI</text>
 
   <text x="73" y="158"
         font-family="Arial, Helvetica, sans-serif"
@@ -54,15 +51,17 @@
   <text x="73" y="198"
         font-family="Arial, Helvetica, sans-serif"
         font-size="17"
-        fill="#CBD5E1">Building practical software • Exploring AI &amp; Data • Learning continuously</text>
+        fill="#94A3B8">Building practical software • Exploring AI &amp; Data • Learning continuously</text>
 
   <g transform="translate(1040 72)">
     <rect x="0" y="0" width="92" height="92" rx="22"
-          fill="#0F172A" stroke="#22D3EE" stroke-width="2" opacity=".94"/>
-    <path d="M28 30h36v32H28z" fill="none" stroke="#67E8F9" stroke-width="3"/>
+          fill="#020617" stroke="#0E7490" stroke-width="2"/>
+    <path d="M28 30h36v32H28z"
+          fill="none" stroke="#67E8F9" stroke-width="3"/>
     <path d="M34 42l8 8-8 8M47 58h11"
           fill="none" stroke="#22D3EE" stroke-width="3"
           stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="46" cy="46" r="40" fill="none" stroke="#22D3EE" stroke-width="1" opacity=".3"/>
+    <circle cx="46" cy="46" r="40"
+            fill="none" stroke="#0E7490" stroke-width="1" opacity=".5"/>
   </g>
 </svg>
