@@ -6,7 +6,8 @@
 
 <br><br>
 
-<a href="https://komarev.com/ghpvc/?username=Devisri-2409"><img src="https://komarev.com/ghpvc/?username=Devisri-2409&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views"></a>&nbsp;&nbsp;<a href="https://github.com/Devisri-2409?tab=followers"><img src="https://img.shields.io/github/followers/Devisri-2409?label=FOLLOWERS&style=for-the-badge&color=06b6d4" alt="Followers"></a>
+<a href="https://komarev.com/ghpvc/?username=Devisri-2409"><img src="https://komarev.com/ghpvc/?username=Devisri-2409&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views"></a>&nbsp;
+<a href="https://github.com/Devisri-2409?tab=followers"><img src="https://img.shields.io/github/followers/Devisri-2409?label=FOLLOWERS&style=for-the-badge&color=0891B2" alt="Followers"></a>
 
 <br><br>
 
@@ -18,21 +19,28 @@
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 Developer Profile
 
-I'm a **Computer Science & Business Systems student** who enjoys turning ideas into practical software.
+<div align="center">
 
-- 💻 Building full-stack web applications
-- 🤖 Exploring AI, Machine Learning and AI-powered applications
-- 📊 Interested in Data Analytics, Business Intelligence and visualization
-- 🧩 Practising Data Structures & Algorithms with Python
-- 🛠️ Learning by building, experimenting and improving real projects
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  DEVI SRI // DEVELOPER PROFILE                              │
+├──────────────────────────────────────────────────────────────┤
+│  Focus       → Full-Stack Development • AI • Data Analytics │
+│  Languages   → Python • Java • C • JavaScript               │
+│  Building    → Practical Web & AI Applications              │
+│  Practising  → DSA with Python                              │
+│  Learning    → AI/ML • Cloud • Business Intelligence        │
+│  Mindset     → Build → Learn → Improve                       │
+└──────────────────────────────────────────────────────────────┘
+```
 
-> **Goal:** Become a strong software developer who builds useful, scalable and intelligent applications.
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Developer Toolkit
 
 <div align="center">
 
@@ -54,7 +62,10 @@ I'm a **Computer Science & Business Systems student** who enjoys turning ideas i
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-DSA-0891B2?style=flat-square&logo=python&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Full--Stack-Building-0891B2?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/AI%2FML-Exploring-0891B2?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/Data%20Analytics-Learning-0891B2?style=flat-square">
+<img src="https://img.shields.io/badge/Python-DSA-0891B2?style=flat-square&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Full--Stack-Building-0891B2?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/AI%2FML-Exploring-0891B2?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/Data%20Analytics-Learning-0891B2?style=flat-square">
 
 </div>
 
@@ -64,13 +75,13 @@ I'm a **Computer Science & Business Systems student** who enjoys turning ideas i
 
 <div align="center">
 
-🧩 **DSA** · 🤖 **AI / ML** · 🌐 **Full Stack** · 📊 **Data Analytics** · ☁️ **Cloud**
+🧩 **DSA** &nbsp;•&nbsp; 🤖 **AI / ML** &nbsp;•&nbsp; 🌐 **Full Stack** &nbsp;•&nbsp; 📊 **Data Analytics** &nbsp;•&nbsp; ☁️ **Cloud**
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Developer Dashboard
 
 <div align="center">
 
@@ -78,12 +89,22 @@ I'm a **Computer Science & Business Systems student** who enjoys turning ideas i
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devisri-2409&layout=compact&hide_border=true&title_color=0891B2&text_color=334155&bg_color=ffffff" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devisri-2409&layout=compact&hide_border=true&title_color=0891B2&text_color=334155&bg_color=ffffff" height="165" alt="Most used languages">
 
 <br><br>
 
-<a href="https://github.com/Devisri-2409">
 <img src="https://streak-stats.demolab.com?user=Devisri-2409&theme=default&hide_border=true&ring=0891B2&fire=06b6d4&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748b" alt="GitHub streak">
+
+</div>
+
+---
+
+## 📈 Developer Activity
+
+<div align="center">
+
+<a href="https://github.com/Devisri-2409">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisri-2409&bg_color=ffffff&color=334155&line=0891B2&point=06b6d4&area=true&area_color=0891B2&title_color=0891B2&hide_border=true&custom_title=Developer%20Activity%20%E2%80%94%20Last%2031%20Days" alt="GitHub developer activity graph" width="100%">
 </a>
 
 </div>
@@ -100,7 +121,7 @@ I'm a **Computer Science & Business Systems student** who enjoys turning ideas i
 
 ---
 
-## 🔗 Explore My Work
+## 🚀 Explore My Work
 
 <div align="center">
 
@@ -108,10 +129,12 @@ I'm a **Computer Science & Business Systems student** who enjoys turning ideas i
 
 <br><br>
 
-<a href="https://devi-sri-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;<a href="https://www.linkedin.com/in/devi-sri-kagga-a25665370/"><img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:devisrikagga09@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://devi-sri-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/devi-sri-kagga-a25665370/"><img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:devisrikagga09@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
 
-✨ **Thanks for visiting my profile!**
+✨ **Build. Learn. Improve.**
 
 </div>
