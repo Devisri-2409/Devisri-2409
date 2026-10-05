@@ -1,59 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#020617"/>
-      <stop offset="52%" stop-color="#0B1120"/>
+      <stop offset="55%" stop-color="#0B1120"/>
       <stop offset="100%" stop-color="#082F49"/>
     </linearGradient>
     <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#06B6D4"/>
-      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="45%" stop-color="#22D3EE"/>
       <stop offset="100%" stop-color="#3B82F6"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-0.5 0;0.5 0;-0.5 0" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity=".38"/>
       <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
   </defs>
 
-  <rect width="1200" height="300" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="30" fill="url(#bg)"/>
 
-  <circle cx="1010" cy="65" r="150" fill="url(#glow)"/>
-  <circle cx="1120" cy="235" r="125" fill="#0EA5E9" opacity=".08"/>
+  <circle cx="1020" cy="75" r="170" fill="url(#glow)">
+    <animate attributeName="r" values="150;185;150" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".75;1;.75" dur="5s" repeatCount="indefinite"/>
+  </circle>
 
-  <path d="M0 245 C190 180 330 285 520 215 S880 130 1200 210"
-        fill="none" stroke="url(#wave)" stroke-width="5" opacity=".75"/>
-  <path d="M0 265 C190 200 330 305 520 235 S880 150 1200 230"
-        fill="none" stroke="#22D3EE" stroke-width="2" opacity=".45"/>
+  <path d="M-40 255 C170 175 335 305 540 220 S900 130 1240 215"
+        fill="none" stroke="#22D3EE" stroke-width="12" opacity=".12" filter="url(#softGlow)">
+    <animate attributeName="d"
+      values="M-40 255 C170 175 335 305 540 220 S900 130 1240 215;
+              M-40 235 C170 285 335 165 540 240 S900 195 1240 230;
+              M-40 255 C170 175 335 305 540 220 S900 130 1240 215"
+      dur="9s" repeatCount="indefinite"/>
+  </path>
 
-  <g fill="#67E8F9" opacity=".7">
-    <circle cx="930" cy="78" r="3"/>
-    <circle cx="975" cy="135" r="2"/>
-    <circle cx="1085" cy="105" r="3"/>
-    <circle cx="1140" cy="155" r="2"/>
-    <circle cx="1035" cy="205" r="2"/>
+  <path d="M-40 250 C170 175 335 295 540 215 S900 135 1240 210"
+        fill="none" stroke="url(#wave)" stroke-width="5" opacity=".9">
+    <animate attributeName="d"
+      values="M-40 250 C170 175 335 295 540 215 S900 135 1240 210;
+              M-40 230 C170 280 335 160 540 235 S900 190 1240 225;
+              M-40 250 C170 175 335 295 540 215 S900 135 1240 210"
+      dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M-40 275 C180 205 340 315 550 240 S910 165 1240 235"
+        fill="none" stroke="#38BDF8" stroke-width="2" opacity=".55">
+    <animate attributeName="d"
+      values="M-40 275 C180 205 340 315 550 240 S910 165 1240 235;
+              M-40 255 C180 305 340 185 550 260 S910 215 1240 250;
+              M-40 275 C180 205 340 315 550 240 S910 165 1240 235"
+      dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#67E8F9">
+    <circle cx="900" cy="70" r="3">
+      <animate attributeName="cy" values="70;52;70" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="955" cy="128" r="2">
+      <animate attributeName="cy" values="128;145;128" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="92" r="3">
+      <animate attributeName="cy" values="92;70;92" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1145" cy="150" r="2">
+      <animate attributeName="cy" values="150;132;150" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <text x="70" y="105"
+  <text x="70" y="112"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="43"
+        font-size="46"
         font-weight="700"
         fill="#F8FAFC">DEVI SRI</text>
 
-  <text x="73" y="148"
+  <text x="73" y="158"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="23"
+        font-size="22"
         font-weight="600"
         fill="#22D3EE">Full-Stack Developer • AI Explorer • Software Developer</text>
 
-  <text x="73" y="188"
+  <text x="73" y="198"
         font-family="Arial, Helvetica, sans-serif"
         font-size="17"
         fill="#CBD5E1">Building practical software • Exploring AI &amp; Data • Learning continuously</text>
 
-  <g transform="translate(1035 78)">
-    <rect x="0" y="0" width="92" height="92" rx="22" fill="#0F172A" stroke="#22D3EE" stroke-width="2" opacity=".9"/>
-    <path d="M28 30h36v32H28z" fill="none" stroke="#67E8F9" stroke-width="3" rx="4"/>
-    <path d="M34 42l8 8-8 8M47 58h11" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(1040 72)">
+    <rect x="0" y="0" width="92" height="92" rx="22"
+          fill="#0F172A" stroke="#22D3EE" stroke-width="2" opacity=".94"/>
+    <path d="M28 30h36v32H28z" fill="none" stroke="#67E8F9" stroke-width="3"/>
+    <path d="M34 42l8 8-8 8M47 58h11"
+          fill="none" stroke="#22D3EE" stroke-width="3"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="46" cy="46" r="40" fill="none" stroke="#22D3EE" stroke-width="1" opacity=".3">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 46 46" to="360 46 46" dur="8s" repeatCount="indefinite"/>
+    </circle>
   </g>
 </svg>
