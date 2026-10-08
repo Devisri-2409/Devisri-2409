@@ -137,10 +137,15 @@ I enjoy developing full-stack applications, experimenting with AI/ML, working wi
 
 <div align="center">
 
+<a href="https://github.com/Devisri-2409">
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Devisri-2409&theme=github-compact&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Devisri-2409&theme=github-compact&custom_title=Devi%20Sri%27s%20GitHub%20Activity&days=31&area=true&hide_border=true&radius=10"
   width="95%"
+  alt="Devi Sri's GitHub Activity Graph"
 />
+
+</a>
 
 </div>
 
