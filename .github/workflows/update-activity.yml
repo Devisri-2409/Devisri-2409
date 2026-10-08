@@ -1,0 +1,141 @@
+name: Update GitHub Activity Graph
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/github-activity.svg"
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import subprocess
+          from datetime import datetime
+
+          query = r'''
+          query {
+            viewer {
+              login
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                      contributionLevel
+                    }
+                  }
+                }
+              }
+            }
+          }
+          '''
+
+          payload = json.dumps({"query": query})
+          result = subprocess.run(
+              ["gh", "api", "graphql", "-f", f"query={query}"],
+              check=True,
+              capture_output=True,
+              text=True
+          )
+          data = json.loads(result.stdout)["data"]["viewer"]
+          calendar = data["contributionsCollection"]["contributionCalendar"]
+          weeks = calendar["weeks"]
+
+          colors = {
+              "NONE": "#ebedf0",
+              "FIRST_QUARTILE": "#9be9a8",
+              "SECOND_QUARTILE": "#40c463",
+              "THIRD_QUARTILE": "#30a14e",
+              "FOURTH_QUARTILE": "#216e39",
+          }
+
+          cell = 12
+          gap = 3
+          step = cell + gap
+          left = 38
+          top = 30
+          width = left + len(weeks) * step + 8
+          height = top + 7 * step + 32
+
+          month_positions = []
+          seen = set()
+          for wi, week in enumerate(weeks):
+              days = week["contributionDays"]
+              if not days:
+                  continue
+              month = datetime.fromisoformat(days[0]["date"]).strftime("%b")
+              key = (month, datetime.fromisoformat(days[0]["date"]).strftime("%Y-%m"))
+              if key not in seen and (wi == 0 or month != datetime.fromisoformat(weeks[wi-1]["contributionDays"][0]["date"]).strftime("%b")):
+                  month_positions.append((wi, month))
+                  seen.add(key)
+
+          parts = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
+              '<rect width="100%" height="100%" rx="10" fill="#ffffff"/>',
+              '<text x="10" y="18" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#24292f">GitHub Activity</text>'
+          ]
+
+          for wi, label in month_positions:
+              x = left + wi * step
+              parts.append(f'<text x="{x}" y="25" font-family="Arial, sans-serif" font-size="9" fill="#57606a">{label}</text>')
+
+          weekdays = [("Mon", 1), ("Wed", 3), ("Fri", 5)]
+          for label, row in weekdays:
+              y = top + row * step + 9
+              parts.append(f'<text x="1" y="{y}" font-family="Arial, sans-serif" font-size="8" fill="#57606a">{label}</text>')
+
+          for wi, week in enumerate(weeks):
+              for day in week["contributionDays"]:
+                  date = datetime.fromisoformat(day["date"])
+                  row = (date.weekday() + 1) % 7
+                  x = left + wi * step
+                  y = top + row * step
+                  level = day["contributionLevel"]
+                  count = day["contributionCount"]
+                  title = f'{day["date"]}: {count} contribution{"s" if count != 1 else ""}'
+                  parts.append(
+                      f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{colors.get(level, colors["NONE"])}">'
+                      f'<title>{title}</title></rect>'
+                  )
+
+          total = calendar["totalContributions"]
+          parts.append(f'<text x="10" y="{height-8}" font-family="Arial, sans-serif" font-size="9" fill="#57606a">{total} contributions in the last year</text>')
+          parts.append('</svg>')
+
+          os.makedirs("assets", exist_ok=True)
+          with open("assets/github-activity.svg", "w", encoding="utf-8") as f:
+              f.write("\n".join(parts))
+          PY
+
+      - name: Commit updated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-activity.svg
+          if git diff --cached --quiet; then
+            echo "No activity graph changes."
+            exit 0
+          fi
+          git commit -m "Update GitHub activity graph"
+          git push
