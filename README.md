@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/student-developer.png" width="650" alt="Student developer illustration">
+<img src="./assets/developer.png" width="650" alt="Student developer illustration">
 
 
 # 👋 Hi, I'm Devi Sri
