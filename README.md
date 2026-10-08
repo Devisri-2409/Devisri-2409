@@ -1,156 +1,70 @@
-<div align="center">
+👋 Hi, I'm KAGGA DEVI SRI
 
-<table width="100%" bgcolor="#020617">
-<tr>
-<td align="center">
+💻 Computer Science & Business Systems | Software Developer | AI & Data Enthusiast
 
-<br>
+I'm an enthusiastic learner and aspiring software developer who enjoys building practical applications and exploring software development, data analytics, and artificial intelligence.
 
-# <font color="#FFFFFF">DEVI SRI</font>
-
-### <font color="#22D3EE">Full-Stack Developer • AI/ML Enthusiast • Data Explorer • Software Developer</font>
-
-<font color="#94A3B8">Building practical software • Exploring AI & Data • Learning continuously</font>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Devisri-2409&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Devisri-2409?label=FOLLOWERS&style=for-the-badge&color=0891B2" alt="Followers"/>
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<table width="100%" bgcolor="#020617">
-<tr>
-<td>
-
-## <font color="#22D3EE">👋 About Me</font>
-
-<font color="#CBD5E1">I'm a Computer Science & Business Systems student passionate about building practical software and exploring emerging technologies. I enjoy developing full-stack applications, experimenting with AI/ML, working with data, and continuously improving my problem-solving skills through DSA.</font>
-
-<br>
-
-<font color="#FFFFFF">💻 Full-Stack Development</font>  
-<font color="#FFFFFF">🤖 AI/ML Exploration</font>  
-<font color="#FFFFFF">📊 Data & Business Intelligence</font>  
-<font color="#FFFFFF">🧩 Python & DSA</font>  
-<font color="#FFFFFF">🚀 Project-Based Learning</font>
+I enjoy learning new technologies, solving problems, and continuously improving my technical skills.
 
 ---
 
-## <font color="#22D3EE">🛠️ Technical Skills</font>
+🛠️ Tech Stack
 
-### <font color="#67E8F9">Languages</font>
+### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Python Java C JavaScript"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### <font color="#67E8F9">Frontend</font>
+### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML CSS React"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### <font color="#67E8F9">Backend</font>
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" alt="Node.js Express Flask FastAPI"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### <font color="#67E8F9">Data & AI</font>
+### 🤖 Data & AI
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### <font color="#67E8F9">Databases</font>
+### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL PostgreSQL"/>
-
-### <font color="#67E8F9">Tools</font>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" alt="Git GitHub Docker Postman VS Code Vercel"/>
-
----
-
-## <font color="#22D3EE">⚡ Currently Exploring</font>
-
-<font color="#CBD5E1">
-
-⚛️ Building full-stack applications  
-🤖 Exploring AI/ML & AI-powered applications  
-📊 Improving Data Analytics & BI skills  
-🐍 Practising DSA with Python  
-☁️ Exploring cloud & deployment
-
-</font>
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARNING-22D3EE?style=for-the-badge&labelColor=020617" alt="Learning"/>
-<img src="https://img.shields.io/badge/BUILDING-0EA5E9?style=for-the-badge&labelColor=020617" alt="Building"/>
-<img src="https://img.shields.io/badge/TESTING-0284C7?style=for-the-badge&labelColor=020617" alt="Testing"/>
-<img src="https://img.shields.io/badge/IMPROVING-0369A1?style=for-the-badge&labelColor=020617" alt="Improving"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## <font color="#22D3EE">📊 GitHub Snapshot</font>
+📚 Currently Learning
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devisri-2409&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" height="170" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devisri-2409&layout=compact&hide_border=true&theme=tokyonight&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" height="170" alt="Most used languages"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisri-2409&bg_color=020617&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph"/>
-
-</div>
+- 🧩 Data Structures & Algorithms
+- 🤖 Machine Learning & Artificial Intelligence
+- 🌐 Full-Stack Web Development
+- ☁️ Cloud Technologies
+- 📊 Data Analytics & Visualization
 
 ---
 
-## <font color="#22D3EE">🎯 What I'm Looking For</font>
+🌐 Connect With Me
 
-<font color="#CBD5E1">Open to opportunities where I can contribute to real-world software projects, strengthen my development skills, and continue exploring AI/ML and data-driven solutions.</font>
+<p align="left">
+  <a href="https://github.com/Devisri-2409">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devi-sri-kagga-a25665370">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:devisrikagga09@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=&logoColor=white"/>
+  </a>
+</p>---
 
-<br><br>
-
-<img src="https://img.shields.io/badge/💼-Internships-0E7490?style=for-the-badge" alt="Internships"/>
-<img src="https://img.shields.io/badge/💻-Software%20Development-164E63?style=for-the-badge" alt="Software Development"/>
-<img src="https://img.shields.io/badge/🤖-AI%2FML-0E7490?style=for-the-badge" alt="AI ML"/>
-<img src="https://img.shields.io/badge/📊-Data%20Analytics-164E63?style=for-the-badge" alt="Data Analytics"/>
-
----
-
-## <font color="#22D3EE">🌐 Let's Connect</font>
-
-<div align="center">
-
-<a href="https://github.com/Devisri-2409">
-<img src="https://img.shields.io/badge/GitHub-Connect-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/devi-sri-kagga-a25665370/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://devi-sri-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:devisrikagga09@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-<font color="#22D3EE">Always learning. Always building. 🚀</font>
-
-</div>
-
-</td>
-</tr>
-</table>
+⭐ Thanks for visiting my profile!
