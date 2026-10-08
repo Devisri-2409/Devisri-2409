@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/developer.svg" width="420" alt="Developer illustration">
+<img src="./assets/student-developer.png" width="650" alt="Student developer illustration">
+
 
 # 👋 Hi, I'm Devi Sri
 
@@ -37,11 +38,7 @@ I'm a Computer Science & Business Systems student passionate about building prac
 
 I enjoy developing full-stack applications, experimenting with AI/ML, working with data, and continuously improving my problem-solving skills through DSA.
 
-<div align="center">
 
-<img src="./assets/ai.svg" width="300" alt="AI and technology illustration">
-
-</div>
 
 - 💻 Building full-stack applications
 - 🤖 Exploring AI & Machine Learning
@@ -53,153 +50,69 @@ I enjoy developing full-stack applications, experimenting with AI/ML, working wi
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages
+  ### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
-### 🌐 Frontend
+  ### 🌐 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### ⚙️ Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
 ### 🤖 Data & AI
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### 🔧 Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
 </p>
+---
+
+
+
+
+
 
 ---
+## 📚 Currently Learning
 
 <div align="center">
 
-<img src="./assets/data.svg" width="320" alt="Data analytics illustration">
+<img src="https://img.shields.io/badge/Full--Stack%20Development-0A66C2?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-059669?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/DSA%20with%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloud%20%26%20Deployment-374151?style=for-the-badge" />
 
 </div>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🎓 Campus Connect Hub
-
-A full-stack campus collaboration platform for students to discover study groups, notes, events, Q&A, teammates and mentors.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MySQL` `JWT`
-
-<br>
-
-<a href="https://github.com/Devisri-2409/Campus-Connect-Hub">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://campus-connect-hub-theta.vercel.app/">
-<img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 📄 AI Resume Analyzer
-
-An AI-powered platform for resume analysis, ATS evaluation, skill identification, job-description matching and improvement suggestions.
-
-**Tech Stack**
-
-`Python` `FastAPI` `React` `AI/LLM` `PostgreSQL`
-
-<br>
-
-<a href="https://github.com/Devisri-2409/Resume-Analyzer">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Retail Business Intelligence
-
-An interactive analytics dashboard for monitoring retail KPIs, sales performance, profitability and product/customer insights.
-
-**Tech Stack**
-
-`Python` `Streamlit` `Plotly` `MySQL`
-
-<br>
-
-<a href="https://github.com/Devisri-2409/Retail-Business-Intelligence-Dashboard">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌱 OptiCrop
-
-A machine-learning based crop recommendation application using agricultural and environmental parameters.
-
-**Tech Stack**
-
-`Python` `Flask` `Machine Learning` `Bootstrap`
-
-<br>
-
-<a href="https://github.com/Devisri-2409/OptiCrop">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Analytics-059669?style=for-the-badge">
-<img src="https://img.shields.io/badge/DSA%20with%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Cloud%20%26%20Deployment-374151?style=for-the-badge">
-
-</p>
-
 ---
 
 ## 📊 GitHub Statistics
